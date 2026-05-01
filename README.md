@@ -108,7 +108,7 @@ streamlit run app.py
 ## 📸 Dashboard Preview
 
 
-![Dashboard](assets:dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 

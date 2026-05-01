@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+sqlalchemy
+pip install -r requirements.txt
